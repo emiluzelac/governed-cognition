@@ -1,8 +1,10 @@
 # Governed Cognition — Paper Artifact
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18691808.svg)](https://doi.org/10.5281/zenodo.18691808)
+
 Artifact repository for:
 
-> **From Fragile Glue to Governed Cognition: A Blackboard-Kernel Architecture for Safe Hybrid Agent Systems**
+> **From Fragile Glue to Governed Cognition: A Controlled Study of Blackboard Kernels for Modular AI Systems**
 >
 > Emil Uzelac, 2026
 
