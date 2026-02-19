@@ -1,0 +1,88 @@
+\begin{thebibliography}{10}
+
+\bibitem{amodei2016concrete}
+Dario Amodei, Chris Olah, Jacob Steinhardt, Paul Christiano, John Schulman, and
+  Dan Man{\'e}.
+\newblock Concrete problems in {AI} safety.
+\newblock {\em arXiv preprint arXiv:1606.06565}, 2016.
+
+\bibitem{baars1988cognitive}
+Bernard~J. Baars.
+\newblock {\em A Cognitive Theory of Consciousness}.
+\newblock Cambridge University Press, 1988.
+
+\bibitem{dehaene2017consciousness}
+Stanislas Dehaene, Hakwan Lau, and Sid Kouider.
+\newblock What is consciousness, and could machines have it?
+\newblock {\em Science}, 358(6362):486--492, 2017.
+
+\bibitem{erman1980hearsay}
+Lee~D. Erman, Frederick Hayes-Roth, Victor~R. Lesser, and D.~Raj Reddy.
+\newblock The {Hearsay-II} speech-understanding system: Integrating knowledge
+  to resolve uncertainty.
+\newblock {\em ACM Computing Surveys}, 12(2):213--253, 1980.
+
+\bibitem{garcez2019neural}
+Artur~d'Avila Garcez, Luis~C. Lamb, and Dov~M. Gabbay.
+\newblock {\em Neural-Symbolic Learning and Reasoning}.
+\newblock Springer, 2019.
+
+\bibitem{ha2018world}
+David Ha and J{\"u}rgen Schmidhuber.
+\newblock World models.
+\newblock {\em arXiv preprint arXiv:1803.10122}, 2018.
+
+\bibitem{hafner2020dream}
+Danijar Hafner, Timothy Lillicrap, Jimmy Ba, and Mohammad Norouzi.
+\newblock Dream to control: Learning behaviors by latent imagination.
+\newblock In {\em ICLR}, 2020.
+
+\bibitem{lecun2022path}
+Yann LeCun.
+\newblock A path towards autonomous machine intelligence.
+\newblock Technical report, Meta AI, 2022.
+\newblock Version 0.9.2.
+
+\bibitem{leveson2011engineering}
+Nancy~G. Leveson.
+\newblock {\em Engineering a Safer World: Systems Thinking Applied to Safety}.
+\newblock MIT Press, 2011.
+
+\bibitem{wang2023selfrefine}
+Aman Madaan, Niket Tandon, Prakhar Gupta, Skyler Hallinan, Luyu Gao, Sarah
+  Wiegreffe, Uri Alon, Nouha Dziri, Shrimai Prabhumoye, Yiming Yang, Shashank
+  Gupta, Bodhisattwa~Prasad Majumder, Katherine Hermann, Sean Welleck, Amir
+  Yazdanbakhsh, and Peter Clark.
+\newblock Self-refine: Iterative refinement with self-feedback.
+\newblock {\em Advances in Neural Information Processing Systems}, 36, 2023.
+
+\bibitem{marcus2020next}
+Gary Marcus.
+\newblock The next decade in {AI}: Four steps towards robust artificial
+  intelligence.
+\newblock {\em arXiv preprint arXiv:2002.06177}, 2020.
+
+\bibitem{newell1990unified}
+Allen Newell.
+\newblock {\em Unified Theories of Cognition}.
+\newblock Harvard University Press, 1990.
+
+\bibitem{openai2023function}
+{OpenAI}.
+\newblock Function calling and tool use in {GPT} models.
+\newblock \url{https://platform.openai.com/docs/guides/function-calling}, 2023.
+\newblock Accessed: 2024-01-15.
+
+\bibitem{schick2023toolformer}
+Timo Schick, Jane Dwivedi-Yu, Roberto Dess{\`\i}, Roberta Raileanu, Maria
+  Lomeli, Luke Zettlemoyer, Nicola Cancedda, and Thomas Scialom.
+\newblock Toolformer: Language models can teach themselves to use tools.
+\newblock In {\em NeurIPS}, 2023.
+
+\bibitem{yao2022react}
+Shunyu Yao, Jeffrey Zhao, Dian Yu, Nan Du, Izhak Shafran, Karthik Narasimhan,
+  and Yuan Cao.
+\newblock {ReAct}: Synergizing reasoning and acting in language models.
+\newblock {\em arXiv preprint arXiv:2210.03629}, 2022.
+
+\end{thebibliography}
