@@ -8,6 +8,16 @@ Artifact repository for:
 >
 > Emil Uzelac, 2026
 
+## Related projects
+
+[Alethic Kernel](https://github.com/emiluzelac/alethic) supplies the governance
+layer studied here. The [Alethic website](https://alethic.dev/#research) links
+to the study, a live kernel demo, and the companion execution controls.
+
+The results in this repository cover the controlled governed-cognition study.
+[Alethic Guard's release qualification](https://github.com/emiluzelac/alethic-guard/tree/release-assets/v0.4.0)
+covers host isolation, shutdown, and recovery on its documented configuration.
+
 ## Contents
 
 - `paper/` — LaTeX source and compiled PDF
